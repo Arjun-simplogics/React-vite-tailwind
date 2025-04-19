@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, Navigate } from "react-router-dom";
 // import { ErrorBoundary } from "../plugins/error-boundary";
 import { Locations } from "../constants/locations";
-import  Login  from "../pages/login";
+import Login from "../pages/login";
 
 export const webRouter = createBrowserRouter([
 	{
